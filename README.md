@@ -1,5 +1,5 @@
 # bacs-drone-qc
 Scripts for processing drone meteorology data from BACS
-Last edited: 4 June 2025
+Last edited: 12 November 2025
 
-For questions about this repository, contact Gabrielle Leung (gabrielle.leung@colostate.edu).
+For questions about this repository, contact Bee Leung (bee.leung@wisc.edu)
